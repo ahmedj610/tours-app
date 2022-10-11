@@ -1,2 +1,2 @@
 # tours-app
-Created with CodeSandbox
+A tours app made in ReactJS.
